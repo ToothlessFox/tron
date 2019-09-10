@@ -17,6 +17,7 @@ git clone https://github.com/ToothlessFox/tron.git
 12) ./tron
 
 Проблема с 64 бит
+
 $ su
 
 $ which su
