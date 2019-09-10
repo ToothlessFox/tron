@@ -41,4 +41,6 @@ $ unset LD_PRELOAD
 - 1 Показывать только удачные
 - 60 Время в секундах ( Если значение 0 то бесконечно )
 
+Разработчик notBrut0r https://codeby.net/threads/infinite-bomber-sms-call-flud.68693/
+
 Мой ВК https://vk.cc/9MXCVG
