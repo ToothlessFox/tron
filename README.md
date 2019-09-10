@@ -40,4 +40,4 @@ $ unset LD_PRELOAD
 - 1 Показывать только удачные
 - 60 Время в секундах ( Если значение 0 то бесконечно )
 
-http://vk.com/toothlessfox 
+https://vk.cc/9MXCVG
