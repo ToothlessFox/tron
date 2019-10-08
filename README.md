@@ -43,4 +43,4 @@ $ unset LD_PRELOAD
 
 Разработчик notBrut0r https://codeby.net/threads/infinite-bomber-sms-call-flud.68693/
 
-Мой ВК https://vk.cc/9MXCVG
+
